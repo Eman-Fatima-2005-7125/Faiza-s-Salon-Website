@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
  /* .nav-link:hover, .nav-link.active {
   color: #d4a373;
 } */
-.navbar .nav-link:hover,
-.navbar .nav-link.active {
+ .nav-link:hover,
+.nav-link.active {
   color: #d4a373 !important;
 }
 
@@ -125,4 +125,13 @@ footer a.text-warning:hover {
   border-radius: 8px;
   overflow: hidden;
 }
+.logo{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 200;
+}
 
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+  text-emphasis-color: white;
+}
